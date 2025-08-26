@@ -23,7 +23,7 @@ building applications that transform raw information into valuable insights.
 ## 🚀 Some technologies I use  
 
 <p align="center">
-  <img src="[[Carruselffmepg.gif](https://github.com/AAZG/AAZG/raw/main/Carruselffmepg.gif](https://github.com/AAZG/AAZG/blob/main/Carruselffmepg.gif))" alt="Python and Data Science Libraries" width="600"/>
+  <img src="Carruselffmepg.gif" alt="Python and Data Science Libraries" width="600"/>
 </p>
 
 ---
@@ -38,14 +38,19 @@ building applications that transform raw information into valuable insights.
 
 ## 📊 My GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=github_dark" alt="GitHub Stats" width="500"/>
-</p>
+### Github Activity ✔:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=github_dark" alt="Top Languages" width="400"/>
-</p>
+<a href="https://github.com/moisesdatasci">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesdatasci&theme=tokyonight" />
+  </a>
 
+<a href="https://github.com/moisesdatasci">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=moisesdatasci&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+</a>
+
+<br/>
+<br/>
+<br/>
 ---
 
 💻 Built with ❤️ by *Moisés Ortega*
