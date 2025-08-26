@@ -48,10 +48,10 @@ building applications that transform raw information into valuable insights.
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moisesdatasci&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
 
-<br/>
-<br/>
-<br/>
+
 ---
+
+
 
 💻 Built with ❤️ by *Moisés Ortega*
 💻 Built with ❤️ by *Moisés Ortega*
