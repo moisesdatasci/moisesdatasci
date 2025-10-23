@@ -33,6 +33,7 @@
   <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"></a>
   <a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"></a>
+  <a href="https://python-visualization.github.io/folium/latest/" target= "_blank"><img src="https://img.shields.io/badge/Folium-3F4F75?style=for-the-badge&logo=folium&logoColor=white" alt="Folium"> </a>
   
   <br><strong>Business Intelligence:</strong><br>
   <a href="https://www.tableau.com/" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a>
