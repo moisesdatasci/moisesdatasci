@@ -23,6 +23,7 @@
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"></a>
+  <a href="https://geojson.org/" target="_blank"><img src="https://img.shields.io/badge/GeoJSON-F07C00?style=for-the-badge&logo=geojson&logoColor=white" alt="Geojson"></a>
   
   <br><strong>Libraries (Manipulation & ML):</strong><br>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
